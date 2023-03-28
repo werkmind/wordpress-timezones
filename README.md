@@ -1,4 +1,4 @@
-
+```
 <optgroup label="Africa">
 <option value="Africa/Abidjan">Abidjan</option>
 <option value="Africa/Accra">Accra</option>
@@ -517,3 +517,4 @@
 <option value="UTC+13.75">UTC+13:45</option>
 <option value="UTC+14">UTC+14</option>
 </optgroup></select>
+```
