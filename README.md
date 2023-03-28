@@ -1,4 +1,4 @@
-<select id="timezone_string" name="timezone_string" aria-describedby="timezone-description">
+
 <optgroup label="Africa">
 <option value="Africa/Abidjan">Abidjan</option>
 <option value="Africa/Accra">Accra</option>
@@ -53,6 +53,7 @@
 <option value="Africa/Tunis">Tunis</option>
 <option value="Africa/Windhoek">Windhoek</option>
 </optgroup>
+
 <optgroup label="America">
 <option value="America/Adak">Adak</option>
 <option value="America/Anchorage">Anchorage</option>
@@ -203,6 +204,7 @@
 <option value="America/Yakutat">Yakutat</option>
 <option value="America/Yellowknife">Yellowknife</option>
 </optgroup>
+
 <optgroup label="Antarctica">
 <option value="Antarctica/Casey">Casey</option>
 <option value="Antarctica/Davis">Davis</option>
@@ -216,9 +218,11 @@
 <option value="Antarctica/Troll">Troll</option>
 <option value="Antarctica/Vostok">Vostok</option>
 </optgroup>
+
 <optgroup label="Arctic">
 <option value="Arctic/Longyearbyen">Longyearbyen</option>
 </optgroup>
+
 <optgroup label="Asia">
 <option value="Asia/Aden">Aden</option>
 <option value="Asia/Almaty">Almaty</option>
@@ -304,6 +308,7 @@
 <option value="Asia/Yekaterinburg">Yekaterinburg</option>
 <option value="Asia/Yerevan">Yerevan</option>
 </optgroup>
+
 <optgroup label="Atlantic">
 <option value="Atlantic/Azores">Azores</option>
 <option value="Atlantic/Bermuda">Bermuda</option>
@@ -316,6 +321,7 @@
 <option value="Atlantic/Stanley">Stanley</option>
 <option value="Atlantic/St_Helena">St Helena</option>
 </optgroup>
+
 <optgroup label="Australia">
 <option value="Australia/Adelaide">Adelaide</option>
 <option value="Australia/Brisbane">Brisbane</option>
@@ -330,6 +336,7 @@
 <option value="Australia/Perth">Perth</option>
 <option value="Australia/Sydney">Sydney</option>
 </optgroup>
+
 <optgroup label="Europe">
 <option value="Europe/Amsterdam">Amsterdam</option>
 <option value="Europe/Andorra">Andorra</option>
@@ -392,6 +399,7 @@
 <option value="Europe/Zaporozhye">Zaporozhye</option>
 <option value="Europe/Zurich">Zurich</option>
 </optgroup>
+
 <optgroup label="Indian">
 <option value="Indian/Antananarivo">Antananarivo</option>
 <option value="Indian/Chagos">Chagos</option>
@@ -405,6 +413,7 @@
 <option value="Indian/Mayotte">Mayotte</option>
 <option value="Indian/Reunion">Reunion</option>
 </optgroup>
+
 <optgroup label="Pacific">
 <option value="Pacific/Apia">Apia</option>
 <option value="Pacific/Auckland">Auckland</option>
@@ -446,9 +455,11 @@
 <option value="Pacific/Wake">Wake</option>
 <option value="Pacific/Wallis">Wallis</option>
 </optgroup>
+
 <optgroup label="UTC">
 <option value="UTC">UTC</option>
 </optgroup>
+
 <optgroup label="Manual Offsets">
 <option value="UTC-12">UTC-12</option>
 <option value="UTC-11.5">UTC-11:30</option>
